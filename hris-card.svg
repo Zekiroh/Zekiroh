@@ -1,0 +1,29 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0A0A0A"/>
+      <stop offset="1" stop-color="#18181B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 70) rotate(145) scale(520 360)">
+      <stop stop-color="#DC2626" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="420" rx="34" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="34" fill="url(#glow)"/>
+  <rect x="22" y="22" width="1236" height="376" rx="28" stroke="#DC2626" stroke-opacity="0.35"/>
+  <rect x="58" y="58" width="86" height="8" rx="4" fill="#DC2626"/>
+  <text x="58" y="130" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="900" letter-spacing="1">
+    Human Resource Information System
+  </text>
+  <rect x="58" y="160" width="150" height="38" rx="19" fill="#DC2626" fill-opacity="0.16" stroke="#DC2626" stroke-opacity="0.55"/>
+  <text x="82" y="185" fill="#DC2626" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="900" letter-spacing="2">
+    ACTIVE
+  </text>
+  <text x="58" y="245" fill="#D4D4D8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="500">
+    Enterprise HR platform with employee, attendance, leave, authentication, RBAC, API, Docker, and Swagger workflows.
+  </text>
+  <text x="58" y="315" fill="#A1A1AA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
+    React • TypeScript • ASP.NET Core • MySQL • Docker • Swagger/OpenAPI
+  </text>
+</svg>

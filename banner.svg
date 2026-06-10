@@ -1,0 +1,102 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="crimsonGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 220) rotate(145) scale(620 520)">
+      <stop stop-color="#DC2626" stop-opacity="0.55"/>
+      <stop offset="0.45" stop-color="#991B1B" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#18181B" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#09090B" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="redLine" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#DC2626"/>
+      <stop offset="1" stop-color="#991B1B"/>
+    </linearGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="#0A0A0A"/>
+  <rect width="1280" height="640" fill="url(#crimsonGlow)"/>
+
+  <!-- grid -->
+  <g opacity="0.13">
+    <path d="M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280" stroke="#FFFFFF"/>
+    <path d="M80 0V640 M160 0V640 M240 0V640 M320 0V640 M400 0V640 M480 0V640 M560 0V640 M640 0V640 M720 0V640 M800 0V640 M880 0V640 M960 0V640 M1040 0V640 M1120 0V640 M1200 0V640" stroke="#FFFFFF"/>
+  </g>
+
+  <!-- circuit accents -->
+  <g opacity="0.42" stroke="#DC2626" stroke-width="2" stroke-linecap="round">
+    <path d="M812 112H932C955 112 974 131 974 154V188"/>
+    <circle cx="974" cy="198" r="6" fill="#DC2626"/>
+    <path d="M760 500H920C943 500 962 481 962 458V424"/>
+    <circle cx="962" cy="414" r="6" fill="#DC2626"/>
+    <path d="M1060 298H1160"/>
+    <circle cx="1172" cy="298" r="6" fill="#DC2626"/>
+  </g>
+
+  <!-- left content -->
+  <g transform="translate(86 104)">
+    <rect x="0" y="0" width="78" height="6" rx="3" fill="url(#redLine)"/>
+    <text x="0" y="78" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="900" letter-spacing="1.5">
+      JHERALD BRYLLE
+    </text>
+    <text x="0" y="148" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="900" letter-spacing="1.5">
+      VILLAFUERTE
+    </text>
+
+    <text x="2" y="218" fill="#DC2626" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="7">
+      SOFTWARE ENGINEER
+    </text>
+
+    <text x="2" y="288" fill="#D4D4D8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">
+      Building enterprise systems,
+    </text>
+    <text x="2" y="328" fill="#D4D4D8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">
+      developer communities,
+    </text>
+    <text x="2" y="368" fill="#D4D4D8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">
+      and future AI-powered solutions.
+    </text>
+
+    <g transform="translate(0 430)" opacity="0.75">
+      <text x="0" y="0" fill="#71717A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="5">
+        HRIS  /  APD  /  FITME
+      </text>
+    </g>
+  </g>
+
+  <!-- right tech panels -->
+  <g filter="url(#shadow)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(812 140)">
+      <rect width="270" height="74" rx="18" fill="url(#panel)" stroke="#DC2626" stroke-opacity="0.42"/>
+      <circle cx="34" cy="37" r="9" fill="#DC2626"/>
+      <text x="58" y="46" fill="#FFFFFF" font-size="22" font-weight="800">React</text>
+    </g>
+    <g transform="translate(906 232)">
+      <rect width="292" height="74" rx="18" fill="url(#panel)" stroke="#DC2626" stroke-opacity="0.42"/>
+      <circle cx="34" cy="37" r="9" fill="#DC2626"/>
+      <text x="58" y="46" fill="#FFFFFF" font-size="22" font-weight="800">ASP.NET Core</text>
+    </g>
+    <g transform="translate(794 324)">
+      <rect width="286" height="74" rx="18" fill="url(#panel)" stroke="#DC2626" stroke-opacity="0.42"/>
+      <circle cx="34" cy="37" r="9" fill="#DC2626"/>
+      <text x="58" y="46" fill="#FFFFFF" font-size="22" font-weight="800">TypeScript</text>
+    </g>
+    <g transform="translate(930 416)">
+      <rect width="236" height="74" rx="18" fill="url(#panel)" stroke="#DC2626" stroke-opacity="0.42"/>
+      <circle cx="34" cy="37" r="9" fill="#DC2626"/>
+      <text x="58" y="46" fill="#FFFFFF" font-size="22" font-weight="800">Docker</text>
+    </g>
+    <g transform="translate(750 502)">
+      <rect width="224" height="74" rx="18" fill="url(#panel)" stroke="#DC2626" stroke-opacity="0.42"/>
+      <circle cx="34" cy="37" r="9" fill="#DC2626"/>
+      <text x="58" y="46" fill="#FFFFFF" font-size="22" font-weight="800">MySQL</text>
+    </g>
+  </g>
+
+  <rect x="24" y="24" width="1232" height="592" rx="34" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="25" y="25" width="1230" height="590" rx="33" stroke="#DC2626" stroke-opacity="0.18"/>
+</svg>

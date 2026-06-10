@@ -1,0 +1,60 @@
+<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="120" y1="260" x2="1160" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#991B1B"/>
+      <stop offset="0.5" stop-color="#DC2626"/>
+      <stop offset="1" stop-color="#991B1B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 260) scale(620 300)">
+      <stop stop-color="#DC2626" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="520" rx="34" fill="#0A0A0A"/>
+  <rect width="1280" height="520" rx="34" fill="url(#glow)"/>
+  <rect x="24" y="24" width="1232" height="472" rx="30" stroke="#DC2626" stroke-opacity="0.24"/>
+  <text x="70" y="88" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="40" font-weight="900" letter-spacing="1">
+    JOURNEY
+  </text>
+  <text x="70" y="126" fill="#A1A1AA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">
+    Growth from community member to systems builder.
+  </text>
+  <path d="M120 260H1160" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(150 260)">
+      <circle r="17" fill="#DC2626"/>
+      <text y="-46" fill="#FFFFFF" font-size="20" font-weight="900">2023</text>
+      <text y="58" fill="#D4D4D8" font-size="18" font-weight="700">APD Member</text>
+    </g>
+    <g transform="translate(320 260)">
+      <circle r="17" fill="#DC2626"/>
+      <text y="-46" fill="#FFFFFF" font-size="20" font-weight="900">2025</text>
+      <text y="58" fill="#D4D4D8" font-size="18" font-weight="700">FitMe</text>
+    </g>
+    <g transform="translate(490 260)">
+      <circle r="17" fill="#DC2626"/>
+      <text y="-46" fill="#FFFFFF" font-size="20" font-weight="900">2025</text>
+      <text y="58" fill="#D4D4D8" font-size="18" font-weight="700">CCL Officer</text>
+    </g>
+    <g transform="translate(660 260)">
+      <circle r="17" fill="#DC2626"/>
+      <text y="-46" fill="#FFFFFF" font-size="20" font-weight="900">2026</text>
+      <text y="58" fill="#D4D4D8" font-size="18" font-weight="700">CCL Director</text>
+    </g>
+    <g transform="translate(840 260)">
+      <circle r="17" fill="#DC2626"/>
+      <text y="-46" fill="#FFFFFF" font-size="20" font-weight="900">2026</text>
+      <text y="58" fill="#D4D4D8" font-size="18" font-weight="700">Backend Intern</text>
+    </g>
+    <g transform="translate(1015 260)">
+      <circle r="17" fill="#DC2626"/>
+      <text y="-46" fill="#FFFFFF" font-size="20" font-weight="900">2026</text>
+      <text y="58" fill="#D4D4D8" font-size="18" font-weight="700">HRIS</text>
+    </g>
+    <g transform="translate(1160 260)">
+      <circle r="17" fill="#991B1B"/>
+      <text y="-46" fill="#FFFFFF" font-size="20" font-weight="900">NEXT</text>
+      <text y="58" fill="#D4D4D8" font-size="18" font-weight="700">AI Systems</text>
+    </g>
+  </g>
+</svg>
