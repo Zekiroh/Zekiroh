@@ -213,4 +213,31 @@ Full-stack fitness management platform built to streamline gym operations, membe
 
 # Let's Build Something
 
-I'm always interested in
+I'm always interested in:
+
+- Software Engineering
+- Backend Development
+- Enterprise Systems
+- Open Source Projects
+- Technology Communities
+- Artificial Intelligence
+
+---
+
+# Connect With Me
+
+<a href="https://www.linkedin.com/in/jheraldbryllevillafuerte">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:jheraldvillafuerte28@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+---
+
+<div align="center">
+
+## Building Today. Learning Forever. 🚀
+
+</div>
