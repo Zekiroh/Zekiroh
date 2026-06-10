@@ -226,6 +226,8 @@ I'm always interested in:
 
 # Connect With Me
 
+<div align="center">
+  
 <a href="https://www.linkedin.com/in/jheraldbryllevillafuerte">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin" />
 </a>
@@ -235,8 +237,6 @@ I'm always interested in:
 </a>
 
 ---
-
-<div align="center">
 
 ## Building Today. Learning Forever. 🚀
 
