@@ -25,7 +25,7 @@
 
 # About Me
 
-BS Information Technology student focused on building secure, scalable, and maintainable software systems.
+BS Information Technology undergraduate focused on building secure, scalable, and maintainable software systems.
 
 My work spans enterprise applications, organizational platforms, networking, cybersecurity, and future AI-powered solutions. I enjoy transforming complex requirements into practical systems that solve real-world problems while continuously expanding my expertise across multiple technology domains.
 
@@ -92,13 +92,11 @@ Engineering Domains:
 
 # Systems Portfolio
 
-## Human Resource Information System (HRIS)
-
-![Status](https://img.shields.io/badge/Status-Active-red?style=for-the-badge)
-
-<p align="center">
+## <p align="center">
 <img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/hris-card.svg" width="100%" />
 </p>
+
+![Status](https://img.shields.io/badge/Status-Active-red?style=for-the-badge)
 
 Enterprise-grade Human Resource Information System designed to automate employee management, attendance monitoring, leave processing, authentication, and organizational workflows.
 
@@ -117,13 +115,11 @@ Enterprise-grade Human Resource Information System designed to automate employee
 
 ---
 
-## APD Organization Website
-
-![Status](https://img.shields.io/badge/Status-Deployed-red?style=for-the-badge)
-
-<p align="center">
+## <p align="center">
 <img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/apd-card.svg" width="100%" />
 </p>
+
+![Status](https://img.shields.io/badge/Status-Deployed-red?style=for-the-badge)
 
 Official digital platform of the FEU Diliman Assemblage of Programmers and Developers (APD), designed to strengthen community engagement, showcase leadership, and highlight organizational achievements.
 
@@ -158,13 +154,11 @@ Digital attendance and event participation platform designed to modernize attend
 
 ---
 
-## FitMe
-
-![Status](https://img.shields.io/badge/Status-Completed-red?style=for-the-badge)
-
-<p align="center">
+## <p align="center">
 <img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/fitme-card.svg" width="100%" />
 </p>
+
+![Status](https://img.shields.io/badge/Status-Completed-red?style=for-the-badge)
 
 Fitness-focused platform evolving toward AI-powered exercise analysis, workout tracking, and intelligent fitness assistance.
 
@@ -176,30 +170,6 @@ Fitness-focused platform evolving toward AI-powered exercise analysis, workout t
 * Personalized Recommendations
 * Future Computer Vision Integration
 * AI-Assisted Fitness Roadmap
-
----
-
-# Engineering Highlights
-
-* Built enterprise-focused HRIS modules using ASP.NET Core and React
-* Implemented authentication and role-based access control workflows
-* Designed leave management processes integrated with attendance systems
-* Developed and deployed production-ready organizational platforms
-* Applied feature-based architecture and modern Git workflows
-* Experienced with API integration, database design, and full-stack development
-* Expanding into artificial intelligence and computer vision systems
-
----
-
-# Career Snapshot
-
-| Category         | Focus                                |
-| ---------------- | ------------------------------------ |
-| Current Role     | BS Information Technology Student    |
-| Primary Domain   | Enterprise Software Engineering      |
-| Certifications   | 6 Industry Certifications            |
-| Current Systems  | HRIS, APD Website, APD Attendance    |
-| Future Direction | AI-Powered Systems & Computer Vision |
 
 ---
 
@@ -231,6 +201,14 @@ Fitness-focused platform evolving toward AI-powered exercise analysis, workout t
 
 ---
 
+# Career Journey
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/timeline.svg" width="100%" />
+</p>
+
+---
+
 # GitHub Analytics
 
 <div align="center">
@@ -252,84 +230,11 @@ Fitness-focused platform evolving toward AI-powered exercise analysis, workout t
 # Leadership & Achievements
 
 * Committee of Codes and Languages (CCL) Director — APD FEU Diliman
-* Backend Developer Intern
+* Lead Backend Developer Intern
 * Developed and integrated enterprise-grade HRIS modules
 * Built and deployed the official APD Organization Website
 * Led technical initiatives and software projects within APD
 * Managed software projects from planning and development to deployment
-
----
-
-# Milestones
-
-## 2025
-
-* Completed FitMe Capstone Project
-* Earned IT Specialist Certifications
-* Expanded software engineering portfolio
-
-## 2026
-
-* Earned Cisco CyberOps Associate
-* Earned Cisco DevNet Associate
-* Earned CCNAv7 Enterprise Networking
-* Built and deployed APD Organization Website
-* Developed enterprise-grade HRIS modules
-* Continued APD Attendance System development
-
----
-
-# Current Focus
-
-## Building
-
-* Human Resource Information System (HRIS)
-* APD Organization Website
-* APD Attendance System
-* Enterprise Backend Architecture
-
-## Learning
-
-* System Design
-* Cloud Infrastructure
-* DevOps
-* Artificial Intelligence
-* Cybersecurity Operations
-* Network Engineering
-
----
-
-# Engineering Philosophy
-
-> Software should solve real problems, remain maintainable, and scale with growth.
->
-> I focus not only on writing code but also on designing systems that provide long-term value, reliability, and excellent user experiences.
->
-> Great software is built through continuous learning, strong engineering practices, collaboration, and attention to detail.
-
----
-
-# Future Systems Roadmap
-
-## Phase 1 — Enterprise Foundations
-
-* Human Resource Information System (HRIS)
-* APD Organization Website
-* APD Attendance System
-
-## Phase 2 — Community Ecosystem
-
-* APD Connect
-* APD Member Portal
-* APD Community Platform
-* APD Developer Growth Hub
-
-## Phase 3 — Intelligent Systems
-
-* FitMe AI
-* AI Gym Form Checker
-* Computer Vision Applications
-* AI-Assisted Learning Platforms
 
 ---
 
