@@ -25,22 +25,181 @@
 
 # About Me
 
-Software Engineer and Backend Developer focused on building scalable enterprise systems, modern web applications, and digital platforms that solve real-world problems.
+BS Information Technology student focused on building secure, scalable, and maintainable software systems.
+
+My work spans enterprise applications, organizational platforms, networking, cybersecurity, and future AI-powered solutions. I enjoy transforming complex requirements into practical systems that solve real-world problems while continuously expanding my expertise across multiple technology domains.
 
 Currently building:
 
-- Human Resource Information System (HRIS)
-- APD Organization Website
-- APD Attendance System
+* Human Resource Information System (HRIS)
+* APD Organization Website
+* APD Attendance System
 
-Primary interests:
+Engineering Domains:
 
-- Software Engineering
-- Backend Development
-- System Architecture
-- Web Development
-- Mobile Development
-- Artificial Intelligence
+* Software Engineering
+* Enterprise Systems
+* Backend Development
+* Cybersecurity
+* Networking
+* Artificial Intelligence
+
+---
+
+# Certification Gallery
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/python.png" width="220"/><br/>
+<b>IT Specialist in Python</b>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/cybersecurity.png" width="220"/><br/>
+<b>IT Specialist in Cybersecurity</b>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/networking.png" width="220"/><br/>
+<b>IT Specialist in Networking</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/cyberops.png" width="220"/><br/>
+<b>Cisco CyberOps Associate</b>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/devnet.png" width="220"/><br/>
+<b>Cisco DevNet Associate</b>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/ccna.png" width="220"/><br/>
+<b>CCNAv7 Enterprise Networking</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# Systems Portfolio
+
+## Human Resource Information System (HRIS)
+
+![Status](https://img.shields.io/badge/Status-Active-red?style=for-the-badge)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/hris-card.svg" width="100%" />
+</p>
+
+Enterprise-grade Human Resource Information System designed to automate employee management, attendance monitoring, leave processing, authentication, and organizational workflows.
+
+### Highlights
+
+* Employee Management
+* Attendance Tracking
+* Leave Management
+* Authentication & Authorization
+* RBAC Implementation
+* Activity Logging
+* REST API Architecture
+* Swagger/OpenAPI Documentation
+* Dockerized Monorepo Architecture
+* Git-based collaboration through feature branches, pull requests, reviews, and integrations
+
+---
+
+## APD Organization Website
+
+![Status](https://img.shields.io/badge/Status-Deployed-red?style=for-the-badge)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/apd-card.svg" width="100%" />
+</p>
+
+Official digital platform of the FEU Diliman Assemblage of Programmers and Developers (APD), designed to strengthen community engagement, showcase leadership, and highlight organizational achievements.
+
+### Highlights
+
+* Built using React + TypeScript
+* Responsive mobile-first design
+* Interactive community galleries
+* Leadership showcase system
+* Modern UI/UX architecture
+* Hidden interactive features and easter eggs
+* Production deployment and maintenance
+
+---
+
+## APD Attendance System
+
+![Status](https://img.shields.io/badge/Status-In%20Development-red?style=for-the-badge)
+
+Digital attendance and event participation platform designed to modernize attendance tracking, member management, and organizational workflows.
+
+### Highlights
+
+* Attendance Tracking
+* Event Participation Records
+* Authentication & Authorization
+* Member Management
+* PostgreSQL Database Design
+* Node.js & TypeScript Backend
+* Analytics & Reporting Roadmap
+* Built as part of the APD ecosystem
+
+---
+
+## FitMe
+
+![Status](https://img.shields.io/badge/Status-Completed-red?style=for-the-badge)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/fitme-card.svg" width="100%" />
+</p>
+
+Fitness-focused platform evolving toward AI-powered exercise analysis, workout tracking, and intelligent fitness assistance.
+
+### Highlights
+
+* Fitness Management
+* Attendance Monitoring
+* Progress Tracking
+* Personalized Recommendations
+* Future Computer Vision Integration
+* AI-Assisted Fitness Roadmap
+
+---
+
+# Engineering Highlights
+
+* Built enterprise-focused HRIS modules using ASP.NET Core and React
+* Implemented authentication and role-based access control workflows
+* Designed leave management processes integrated with attendance systems
+* Developed and deployed production-ready organizational platforms
+* Applied feature-based architecture and modern Git workflows
+* Experienced with API integration, database design, and full-stack development
+* Expanding into artificial intelligence and computer vision systems
+
+---
+
+# Career Snapshot
+
+| Category         | Focus                                |
+| ---------------- | ------------------------------------ |
+| Current Role     | BS Information Technology Student    |
+| Primary Domain   | Enterprise Software Engineering      |
+| Certifications   | 6 Industry Certifications            |
+| Current Systems  | HRIS, APD Website, APD Attendance    |
+| Future Direction | AI-Powered Systems & Computer Vision |
 
 ---
 
@@ -72,70 +231,6 @@ Primary interests:
 
 ---
 
-# Featured Projects
-
-## Human Resource Information System (HRIS)
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/hris-card.svg" width="100%" />
-</p>
-
-Enterprise-grade Human Resource Information System designed to automate employee management, attendance monitoring, leave processing, authentication, and organizational workflows.
-
-### Highlights
-
-- Employee Management
-- Attendance Tracking
-- Leave Management
-- Authentication & Authorization
-- RBAC Implementation
-- Activity Logging
-- REST API Architecture
-- Swagger/OpenAPI Documentation
-- Dockerized Monorepo Architecture
-- Git-based collaboration through feature branches, pull requests, reviews, and integrations
-
----
-
-## APD Organization Website
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/apd-card.svg" width="100%" />
-</p>
-
-Official digital platform of the FEU Diliman Assemblage of Programmers and Developers (APD), designed to strengthen community engagement, showcase leadership, and highlight organizational achievements.
-
-### Highlights
-
-- Built using React + TypeScript
-- Responsive mobile-first design
-- Interactive community galleries
-- Leadership showcase system
-- Modern UI/UX architecture
-- Hidden interactive features and easter eggs
-- Production deployment and maintenance
-
----
-
-## FitMe
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/fitme-card.svg" width="100%" />
-</p>
-
-Full-stack fitness management platform built to streamline gym operations, membership management, attendance tracking, subscriptions, and user engagement.
-
-### Highlights
-
-- Gym Membership Management
-- Attendance Monitoring
-- Subscription Management
-- Payment Tracking
-- Mobile Application Support
-- Personalized Workout Recommendations
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -154,22 +249,33 @@ Full-stack fitness management platform built to streamline gym operations, membe
 
 ---
 
-# Career Journey
+# Leadership & Achievements
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/timeline.svg" width="100%" />
-</p>
+* Committee of Codes and Languages (CCL) Director — APD FEU Diliman
+* Backend Developer Intern
+* Developed and integrated enterprise-grade HRIS modules
+* Built and deployed the official APD Organization Website
+* Led technical initiatives and software projects within APD
+* Managed software projects from planning and development to deployment
 
 ---
 
-# Leadership & Achievements
+# Milestones
 
-- Committee of Codes and Languages (CCL) Director — APD FEU Diliman
-- Backend Developer Intern
-- Developed and integrated enterprise-grade HRIS modules
-- Built and deployed the official APD organization website
-- Led technical initiatives and software projects within APD
-- Managed software projects from planning and development to deployment
+## 2025
+
+* Completed FitMe Capstone Project
+* Earned IT Specialist Certifications
+* Expanded software engineering portfolio
+
+## 2026
+
+* Earned Cisco CyberOps Associate
+* Earned Cisco DevNet Associate
+* Earned CCNAv7 Enterprise Networking
+* Built and deployed APD Organization Website
+* Developed enterprise-grade HRIS modules
+* Continued APD Attendance System development
 
 ---
 
@@ -177,17 +283,19 @@ Full-stack fitness management platform built to streamline gym operations, membe
 
 ## Building
 
-- Human Resource Information System (HRIS)
-- APD Organization Website
-- APD Attendance System
-- Enterprise Backend Architecture
+* Human Resource Information System (HRIS)
+* APD Organization Website
+* APD Attendance System
+* Enterprise Backend Architecture
 
 ## Learning
 
-- System Design
-- Cloud Infrastructure
-- DevOps
-- Artificial Intelligence
+* System Design
+* Cloud Infrastructure
+* DevOps
+* Artificial Intelligence
+* Cybersecurity Operations
+* Network Engineering
 
 ---
 
@@ -201,33 +309,34 @@ Full-stack fitness management platform built to streamline gym operations, membe
 
 ---
 
-# Upcoming Projects
+# Future Systems Roadmap
 
-- APD Attendance System
-- APD Connect
-- FitMe AI Gym Form Checker
-- AI-Powered Developer Growth Platform
-- APD Community Member Portal
+## Phase 1 — Enterprise Foundations
 
----
+* Human Resource Information System (HRIS)
+* APD Organization Website
+* APD Attendance System
 
-# Let's Build Something
+## Phase 2 — Community Ecosystem
 
-I'm always interested in:
+* APD Connect
+* APD Member Portal
+* APD Community Platform
+* APD Developer Growth Hub
 
-- Software Engineering
-- Backend Development
-- Enterprise Systems
-- Open Source Projects
-- Technology Communities
-- Artificial Intelligence
+## Phase 3 — Intelligent Systems
+
+* FitMe AI
+* AI Gym Form Checker
+* Computer Vision Applications
+* AI-Assisted Learning Platforms
 
 ---
 
 # Connect With Me
 
 <div align="center">
-  
+
 <a href="https://www.linkedin.com/in/jheraldbryllevillafuerte">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin" />
 </a>
@@ -236,8 +345,12 @@ I'm always interested in:
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
+</div>
+
 ---
 
-## Building Today. Learning Forever. 🚀
+<div align="center">
+
+## Building Secure, Scalable, and Intelligent Systems.
 
 </div>
