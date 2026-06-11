@@ -75,10 +75,6 @@
 <img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/hris-card.svg" width="100%" />
 </p>
 
-![Status](https://img.shields.io/badge/Status-Active-red?style=for-the-badge)
-
-Enterprise-grade Human Resource Information System designed to automate employee management, attendance monitoring, leave processing, authentication, and organizational workflows.
-
 ### Highlights
 
 * Employee Management
@@ -97,10 +93,6 @@ Enterprise-grade Human Resource Information System designed to automate employee
 ## <p align="center">
 <img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/apd-card.svg" width="100%" />
 </p>
-
-![Status](https://img.shields.io/badge/Status-Deployed-red?style=for-the-badge)
-
-Official digital platform of the FEU Diliman Assemblage of Programmers and Developers (APD), designed to strengthen community engagement, showcase leadership, and highlight organizational achievements.
 
 ### Highlights
 
@@ -136,10 +128,6 @@ Digital attendance and event participation platform designed to modernize attend
 ## <p align="center">
 <img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/fitme-card.svg" width="100%" />
 </p>
-
-![Status](https://img.shields.io/badge/Status-Completed-red?style=for-the-badge)
-
-Fitness-focused platform evolving toward AI-powered exercise analysis, workout tracking, and intelligent fitness assistance.
 
 ### Highlights
 
