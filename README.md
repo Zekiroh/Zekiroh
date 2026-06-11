@@ -25,29 +25,6 @@
 
 ---
 
-# About Me
-
-BS Information Technology undergraduate focused on building secure, scalable, and maintainable software systems.
-
-My work spans enterprise applications, organizational platforms, networking, cybersecurity, and future AI-powered solutions. I enjoy transforming complex requirements into practical systems that solve real-world problems while continuously expanding my expertise across multiple technology domains.
-
-Currently building:
-
-* Human Resource Information System (HRIS)
-* APD Organization Website
-* APD Attendance System
-
-Engineering Domains:
-
-* Software Engineering
-* Enterprise Systems
-* Backend Development
-* Cybersecurity
-* Networking
-* Artificial Intelligence
-
----
-
 # Certification Gallery
 
 <div align="center">
@@ -177,29 +154,55 @@ Fitness-focused platform evolving toward AI-powered exercise analysis, workout t
 
 # Technology Stack
 
-## Frontend
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" />
 </p>
 
-## Backend
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
-</p>
+<td width="50%" valign="top">
 
-## Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-## Tools & Platforms
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,python,java" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,vscode" />
 </p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -210,6 +213,19 @@ Fitness-focused platform evolving toward AI-powered exercise analysis, workout t
 </p>
 
 ---
+
+# Leadership & Achievements
+
+* Committee of Codes and Languages (CCL) Director — APD FEU Diliman
+* Lead Programmer — FitMe Capstone Project (Samsan Tech)
+* Lead Backend Developer Intern
+* Built and integrated enterprise-grade HRIS modules
+* Built and deployed the official APD Organization Website
+* Led technical initiatives and software projects within APD
+* Managed software projects from planning and development to deployment
+
+---
+
 
 # GitHub Analytics
 
@@ -226,18 +242,6 @@ Fitness-focused platform evolving toward AI-powered exercise analysis, workout t
 <img src="https://streak-stats.demolab.com?user=Zekiroh&theme=dark&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&border_color=30363d" />
 
 </div>
-
----
-
-# Leadership & Achievements
-
-* Committee of Codes and Languages (CCL) Director — APD FEU Diliman
-* Lead Programmer — FitMe Capstone Project (Samsan Tech)
-* Lead Backend Developer Intern
-* Built and integrated enterprise-grade HRIS modules
-* Built and deployed the official APD Organization Website
-* Led technical initiatives and software projects within APD
-* Managed software projects from planning and development to deployment
 
 ---
 
