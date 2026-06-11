@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/banner.svg" width="100%" />
 
 <br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/jheraldbryllevillafuerte">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin" />
@@ -16,6 +17,7 @@
 
 <br/>
 <br/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Enterprise+Systems+Builder;HRIS+Developer;Future+AI+Systems+Engineer" />
 
@@ -230,8 +232,9 @@ Fitness-focused platform evolving toward AI-powered exercise analysis, workout t
 # Leadership & Achievements
 
 * Committee of Codes and Languages (CCL) Director — APD FEU Diliman
+* Lead Programmer — FitMe Capstone Project (Samsan Tech)
 * Lead Backend Developer Intern
-* Developed and integrated enterprise-grade HRIS modules
+* Built and integrated enterprise-grade HRIS modules
 * Built and deployed the official APD Organization Website
 * Led technical initiatives and software projects within APD
 * Managed software projects from planning and development to deployment
