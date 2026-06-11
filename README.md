@@ -19,7 +19,7 @@
 <br/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Enterprise+Systems+Builder;HRIS+Developer;Future+AI+Systems+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=FF3B3B&center=true&vCenter=true&width=900&cursor=true&cursorColor=FF3B3B&lines=const+role+=+'Software+Engineer';const+stack+=+'Full-Stack+Developer';build('Enterprise+Systems');develop('HRIS+Platform');future('AI+Systems+Engineer')" />
 
 </div>
 
