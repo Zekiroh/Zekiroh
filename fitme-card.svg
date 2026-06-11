@@ -9,21 +9,30 @@
       <stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/>
     </radialGradient>
   </defs>
+
   <rect width="1280" height="420" rx="34" fill="url(#bg)"/>
   <rect width="1280" height="420" rx="34" fill="url(#glow)"/>
   <rect x="22" y="22" width="1236" height="376" rx="28" stroke="#DC2626" stroke-opacity="0.35"/>
+
   <rect x="58" y="58" width="86" height="8" rx="4" fill="#DC2626"/>
+
   <text x="58" y="130" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="900" letter-spacing="1">
     FitMe
   </text>
+
   <rect x="58" y="160" width="150" height="38" rx="19" fill="#DC2626" fill-opacity="0.16" stroke="#DC2626" stroke-opacity="0.55"/>
   <text x="82" y="185" fill="#DC2626" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="900" letter-spacing="2">
     COMPLETED
   </text>
+
   <text x="58" y="245" fill="#D4D4D8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="500">
-    Full-stack gym member management platform combining web and Android applications for fitness operations.
+    Full-stack fitness platform for gym operations, member tracking,
   </text>
-  <text x="58" y="315" fill="#A1A1AA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
+  <text x="58" y="280" fill="#D4D4D8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="500">
+    attendance monitoring, and future AI-powered fitness assistance.
+  </text>
+
+  <text x="58" y="345" fill="#A1A1AA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
     React • Node.js • MySQL • Kotlin • NGINX
   </text>
 </svg>
