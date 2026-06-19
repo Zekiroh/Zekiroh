@@ -69,77 +69,6 @@
 
 ---
 
-# Systems Portfolio
-
-## <p align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/hris-card.svg" width="100%" />
-</p>
-
-### Highlights
-
-* Employee Management
-* Attendance Tracking
-* Leave Management
-* Authentication & Authorization
-* RBAC Implementation
-* Activity Logging
-* REST API Architecture
-* Swagger/OpenAPI Documentation
-* Dockerized Monorepo Architecture
-* Git-based collaboration through feature branches, pull requests, reviews, and integrations
-
----
-
-## <p align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/apd-card.svg" width="100%" />
-</p>
-
-### Highlights
-
-* Built using React + TypeScript
-* Responsive mobile-first design
-* Interactive community galleries
-* Leadership showcase system
-* Modern UI/UX architecture
-* Hidden interactive features and easter eggs
-* Production deployment and maintenance
-
----
-
-## APD Attendance System
-
-![Status](https://img.shields.io/badge/Status-In%20Development-red?style=for-the-badge)
-
-Digital attendance and event participation platform designed to modernize attendance tracking, member management, and organizational workflows.
-
-### Highlights
-
-* Attendance Tracking
-* Event Participation Records
-* Authentication & Authorization
-* Member Management
-* PostgreSQL Database Design
-* Node.js & TypeScript Backend
-* Analytics & Reporting Roadmap
-* Built as part of the APD ecosystem
-
----
-
-## <p align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/fitme-card.svg" width="100%" />
-</p>
-
-### Highlights
-
-* Fitness Management
-* Attendance Monitoring
-* Progress Tracking
-* Personalized Recommendations
-* Future Computer Vision Integration
-* AI-Assisted Fitness Roadmap
-
----
-
 # Technology Stack
 
 <div align="center">
@@ -191,14 +120,6 @@ Digital attendance and event participation platform designed to modernize attend
 </table>
 
 </div>
-
----
-
-# Career Journey
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/timeline.svg" width="100%" />
-</p>
 
 ---
 
