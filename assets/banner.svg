@@ -1,0 +1,127 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="crimsonGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 210) rotate(145) scale(650 540)">
+      <stop stop-color="#DC2626" stop-opacity="0.52"/>
+      <stop offset="0.46" stop-color="#991B1B" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="redLine" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#EF4444"/>
+      <stop offset="1" stop-color="#991B1B"/>
+    </linearGradient>
+    <linearGradient id="nodePanel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#171719" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#09090B" stop-opacity="0.96"/>
+    </linearGradient>
+    <filter id="nodeShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="#0A0A0A"/>
+  <rect width="1280" height="640" fill="url(#crimsonGlow)"/>
+
+  <!-- Technical grid -->
+  <g opacity="0.12">
+    <path d="M0 80H1280 M0 160H1280 M0 240H1280 M0 320H1280 M0 400H1280 M0 480H1280 M0 560H1280" stroke="#FFFFFF"/>
+    <path d="M80 0V640 M160 0V640 M240 0V640 M320 0V640 M400 0V640 M480 0V640 M560 0V640 M640 0V640 M720 0V640 M800 0V640 M880 0V640 M960 0V640 M1040 0V640 M1120 0V640 M1200 0V640" stroke="#FFFFFF"/>
+  </g>
+
+  <!-- Left identity -->
+  <g transform="translate(86 118)">
+    <rect width="78" height="6" rx="3" fill="url(#redLine)"/>
+    <text x="0" y="82" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="900" letter-spacing="1.5">JHERALD BRYLLE</text>
+    <text x="0" y="152" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="900" letter-spacing="1.5">VILLAFUERTE</text>
+    <text x="2" y="230" fill="#EF4444" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="7">SOFTWARE ENGINEER</text>
+    <text x="2" y="282" fill="#D4D4D8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="600" letter-spacing="2">FULL-STACK DEVELOPER</text>
+
+    <g transform="translate(0 382)">
+      <text x="0" y="31" fill="#EF4444" font-family="Consolas, Courier New, monospace" font-size="24" font-weight="700">&lt;/&gt;</text>
+      <text x="62" y="31" fill="#A1A1AA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="1.5">Zekiroh</text>
+    </g>
+  </g>
+
+  <!-- Capability network -->
+  <g stroke="#DC2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M862 118H1034C1058 118 1076 136 1076 160V176" opacity="0.52"/>
+    <path d="M834 218H792C768 218 750 236 750 260V280" opacity="0.34"/>
+    <path d="M984 318H1100C1124 318 1142 336 1142 360V378" opacity="0.44"/>
+    <path d="M844 418H804C780 418 762 436 762 460V476" opacity="0.32"/>
+    <path d="M1008 518H1080" opacity="0.42"/>
+    <circle cx="1076" cy="184" r="6" fill="#EF4444" stroke="none"/>
+    <circle cx="750" cy="288" r="6" fill="#EF4444" stroke="none"/>
+    <circle cx="1142" cy="386" r="6" fill="#EF4444" stroke="none"/>
+    <circle cx="762" cy="484" r="6" fill="#EF4444" stroke="none"/>
+    <circle cx="1090" cy="518" r="6" fill="#EF4444" stroke="none"/>
+  </g>
+
+  <!-- Capability cards -->
+  <g filter="url(#nodeShadow)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <!-- Web: browser with code -->
+    <g transform="translate(802 132)">
+      <rect width="222" height="66" rx="16" fill="url(#nodePanel)" stroke="#DC2626" stroke-opacity="0.46"/>
+      <g transform="translate(20 20)" stroke="#EF4444" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="0" y="0" width="27" height="25" rx="4"/>
+        <path d="M0 7H27"/>
+        <path d="M8 13L5 16L8 19"/>
+        <path d="M19 13L22 16L19 19"/>
+        <path d="M15 12L12 20"/>
+      </g>
+      <text x="62" y="41" fill="#FFFFFF" font-size="21" font-weight="800" letter-spacing="1.2">WEB</text>
+    </g>
+
+    <!-- Mobile: smartphone -->
+    <g transform="translate(914 226)">
+      <rect width="246" height="66" rx="16" fill="url(#nodePanel)" stroke="#DC2626" stroke-opacity="0.46"/>
+      <g transform="translate(25 18)" stroke="#EF4444" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="0" y="0" width="17" height="29" rx="4"/>
+        <path d="M6 4H11"/>
+        <path d="M7 24H10"/>
+      </g>
+      <text x="62" y="41" fill="#FFFFFF" font-size="21" font-weight="800" letter-spacing="1.2">MOBILE</text>
+    </g>
+
+    <!-- Backend: stacked server -->
+    <g transform="translate(786 320)">
+      <rect width="254" height="66" rx="16" fill="url(#nodePanel)" stroke="#DC2626" stroke-opacity="0.46"/>
+      <g transform="translate(20 18)" stroke="#EF4444" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="0" y="0" width="28" height="11" rx="3"/>
+        <rect x="0" y="18" width="28" height="11" rx="3"/>
+        <path d="M6 5.5H7"/>
+        <path d="M6 23.5H7"/>
+        <path d="M12 5.5H22"/>
+        <path d="M12 23.5H22"/>
+      </g>
+      <text x="62" y="41" fill="#FFFFFF" font-size="21" font-weight="800" letter-spacing="1.2">BACKEND</text>
+    </g>
+
+    <!-- APIs: connected nodes -->
+    <g transform="translate(930 414)">
+      <rect width="218" height="66" rx="16" fill="url(#nodePanel)" stroke="#DC2626" stroke-opacity="0.46"/>
+      <g transform="translate(20 19)" stroke="#EF4444" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="5" cy="14" r="4"/>
+        <circle cx="24" cy="5" r="4"/>
+        <circle cx="24" cy="23" r="4"/>
+        <path d="M9 12L20 7"/>
+        <path d="M9 16L20 21"/>
+      </g>
+      <text x="62" y="41" fill="#FFFFFF" font-size="21" font-weight="800" letter-spacing="1.2">APIs</text>
+    </g>
+
+    <!-- Database: cylinder -->
+    <g transform="translate(808 508)">
+      <rect width="272" height="66" rx="16" fill="url(#nodePanel)" stroke="#DC2626" stroke-opacity="0.46"/>
+      <g transform="translate(20 18)" stroke="#EF4444" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <ellipse cx="14" cy="5" rx="13" ry="5"/>
+        <path d="M1 5V24C1 27 7 30 14 30C21 30 27 27 27 24V5"/>
+        <path d="M1 14C1 17 7 20 14 20C21 20 27 17 27 14"/>
+        <path d="M1 23C1 26 7 29 14 29C21 29 27 26 27 23"/>
+      </g>
+      <text x="62" y="41" fill="#FFFFFF" font-size="21" font-weight="800" letter-spacing="1.2">DATABASE</text>
+    </g>
+  </g>
+
+  <!-- Frame -->
+  <rect x="24" y="24" width="1232" height="592" rx="34" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <rect x="25" y="25" width="1230" height="590" rx="33" stroke="#DC2626" stroke-opacity="0.18"/>
+</svg>
