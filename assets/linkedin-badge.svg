@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="178" height="28" viewBox="0 0 178 28" role="img" aria-label="LinkedIn Connect">
+<title>LinkedIn Connect</title>
+<rect width="178" height="28" rx="3" fill="#555"/>
+<path d="M104 0h74v28h-74z" fill="#EF4444"/>
+<g fill="#fff"><rect x="10" y="10" width="3.4" height="9"/><circle cx="11.7" cy="7.2" r="1.9"/><path d="M16 10h3.3v1.3c1-1.2 2.2-1.7 3.8-1.7 3 0 4.9 1.9 4.9 5.6V19h-3.5v-3.4c0-2-.7-3-2.2-3-1.7 0-2.8 1.1-2.8 3.4v3H16v-9Z"/></g>
+<g fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10" font-weight="700" letter-spacing="1"><text x="34" y="18">LINKEDIN</text><text x="113" y="18">CONNECT</text></g>
+</svg>

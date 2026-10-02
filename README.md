@@ -1,177 +1,135 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/banner.svg" width="100%" />
+<img src="./assets/banner.svg" width="100%" alt="Jherald Brylle Villafuerte — Software Engineer and Full-Stack Developer" />
 
-<br/>
-<br/>
+<br />
+<br />
 
-<a href="https://www.linkedin.com/in/jheraldbryllevillafuerte">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin" />
+<a href="https://zekiroh.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-ef4444?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
 </a>
-
-<a href="mailto:jheraldvillafuerte28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Zekiroh&label=Profile%20Views&color=red&style=for-the-badge" />
-
-<br/>
-<br/>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=FF3B3B&center=true&vCenter=true&width=900&cursor=true&cursorColor=FF3B3B&lines=const+role+=+'Software+Engineer';const+stack+=+'Full-Stack+Developer';build('Enterprise+Systems');develop('HRIS+Platform');future('AI+Systems+Engineer')" />
+<img src="https://github-view-counter.vercel.app/api?username=Zekiroh-profile&base=1478&label=PROFILE%20VIEWS&color=%23ffffff&icon=true&iconColor=%23ffffff&labelColor=%23ffffff&bgColor=%23ef4444&labelBgColor=%23555&style=square&layout=split" alt="Profile views" />
 
 </div>
 
 ---
 
-# Certification Gallery
+## Technology Stack
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/python.png" width="220"/><br/>
-<b>IT Specialist in Python</b>
-</td>
+<td width="50%" align="center" valign="top">
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/cybersecurity.png" width="220"/><br/>
-<b>IT Specialist in Cybersecurity</b>
-</td>
+<h3 align="center">Frontend</h3>
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/networking.png" width="220"/><br/>
-<b>IT Specialist in Networking</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/cyberops.png" width="220"/><br/>
-<b>Cisco CyberOps Associate</b>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/devnet.png" width="220"/><br/>
-<b>Cisco DevNet Associate</b>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/main/assets/certificates/ccna.png" width="220"/><br/>
-<b>CCNAv7 Enterprise Networking</b>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# Technology Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" />
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&theme=dark" width="40" height="40" alt="TypeScript" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=dark" width="40" height="40" alt="JavaScript" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" width="40" height="40" alt="React" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs&theme=dark" width="40" height="40" alt="Next.js" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss&theme=dark" width="40" height="40" alt="Tailwind CSS" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=dark" width="40" height="40" alt="HTML5" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=dark" width="40" height="40" alt="CSS3" />
 </p>
 
 </td>
+<td width="50%" align="center" valign="top">
 
-<td width="50%" valign="top">
+<h3 align="center">Database</h3>
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" width="40" height="40" alt="MySQL" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark" width="40" height="40" alt="PostgreSQL" />
+<img src="./assets/upstash.svg" width="40" height="40" alt="Upstash Redis" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=supabase&theme=dark" width="40" height="40" alt="Supabase" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&theme=dark" width="40" height="40" alt="Firebase" />
 </p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### Backend
+<h3 align="center">Backend</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,python,java" />
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs&theme=dark" width="40" height="40" alt="C#" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet&theme=dark" width="40" height="40" alt=".NET" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" width="40" height="40" alt="Python" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=graphql&theme=dark" width="40" height="40" alt="GraphQL" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=resend&theme=dark" width="40" height="40" alt="Resend" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" width="40" height="40" alt="Node.js" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs&theme=dark" width="40" height="40" alt="Express.js" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=php&theme=dark" width="40" height="40" alt="PHP" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" width="40" height="40" alt="Java" />
 </p>
 
 </td>
+<td width="50%" align="center" valign="top">
 
-<td width="50%" valign="top">
+<h3 align="center">Delivery</h3>
 
-### Tools & Platforms
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" width="40" height="40" alt="Git" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" width="40" height="40" alt="GitHub" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" width="40" height="40" alt="Docker" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=swagger&theme=dark" width="40" height="40" alt="Swagger" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" width="40" height="40" alt="Vercel" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark" width="40" height="40" alt="Linux" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=circleci&theme=dark" width="40" height="40" alt="CircleCI" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" width="40" height="40" alt="Postman" />
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,vscode" />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center" valign="top">
+
+<h3 align="center">Mobile</h3>
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark" width="40" height="40" alt="Kotlin" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative&theme=dark" width="40" height="40" alt="React Native" />
 </p>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-# Leadership & Achievements
-
-* Committee of Codes and Languages (CCL) Director — APD FEU Diliman
-* Lead Programmer — FitMe Capstone Project (Samsan Tech)
-* Lead Backend Developer Intern
-* Built and integrated enterprise-grade HRIS modules
-* Built and deployed the official APD Organization Website
-* Led technical initiatives and software projects within APD
-* Managed software projects from planning and development to deployment
-
----
-
-
-# GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zekiroh&show_icons=true&theme=transparent&title_color=ff3b3b&icon_color=ff3b3b&text_color=ffffff&border_color=30363d" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zekiroh&name=Brylle%20Villafuerte&theme=github_dark&title_color=EF4444&text_color=FFFFFF&bg_color=0D1117&border_color=30363D&icon_color=EF4444&chart_color=EF4444" alt="Brylle Villafuerte GitHub activity overview" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zekiroh&layout=compact&theme=transparent&title_color=ff3b3b&text_color=ffffff&border_color=30363d" />
+<br />
+<br />
 
-</div>
+<img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=Zekiroh&show_icons=true&hide_rank=true&card_width=420&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF&icon_color=EF4444&custom_title=Stats" alt="Zekiroh GitHub statistics" />
+<img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zekiroh&layout=compact&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF&langs_count=8&card_width=420" alt="Zekiroh most used languages" />
 
-<div align="center">
+<br />
+<br />
 
-<img src="https://streak-stats.demolab.com?user=Zekiroh&theme=dark&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&border_color=30363d" />
+<img width="100%" src="https://streak-stats.demolab.com?user=Zekiroh&background=0D1117&border=30363D&stroke=30363D&ring=EF4444&fire=EF4444&currStreakNum=EF4444&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&timezone=Asia%2FManila" alt="Zekiroh GitHub contribution streak" />
 
 </div>
 
 ---
 
-# Connect With Me
+## Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jheraldbryllevillafuerte">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin" />
+  <img src="./assets/linkedin-badge.svg" alt="Connect on LinkedIn" />
 </a>
-
 <a href="mailto:jheraldvillafuerte28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contact-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-## Building Secure, Scalable, and Intelligent Systems.
 
 </div>
