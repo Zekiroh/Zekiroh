@@ -1,7 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="178" height="28" viewBox="0 0 178 28" role="img" aria-label="LinkedIn Connect">
-<title>LinkedIn Connect</title>
-<rect width="178" height="28" rx="3" fill="#555"/>
-<path d="M104 0h74v28h-74z" fill="#EF4444"/>
-<g fill="#fff"><rect x="10" y="10" width="3.4" height="9"/><circle cx="11.7" cy="7.2" r="1.9"/><path d="M16 10h3.3v1.3c1-1.2 2.2-1.7 3.8-1.7 3 0 4.9 1.9 4.9 5.6V19h-3.5v-3.4c0-2-.7-3-2.2-3-1.7 0-2.8 1.1-2.8 3.4v3H16v-9Z"/></g>
-<g fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10" font-weight="700" letter-spacing="1"><text x="34" y="18">LINKEDIN</text><text x="113" y="18">CONNECT</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="30" viewBox="0 0 176 30" role="img" aria-label="LinkedIn Connect">
+  <title>LinkedIn Connect</title>
+
+  <path d="M0 0h101v30H0z" fill="#555"/>
+  <path d="M101 0h75v30h-75z" fill="#ef4444"/>
+
+  <svg x="10" y="7" width="16" height="16" viewBox="0 0 24 24" fill="#0A66C2">
+    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 1 1 0-4.124 2.062 2.062 0 0 1 0 4.124zM7.119 20.452H3.555V9h3.564v11.452z"/>
+  </svg>
+
+  <text x="31" y="19.55" font-family="monospace" font-size="13" fill="#ffffff">LINKEDIN</text>
+  <text x="111" y="19.55" font-family="monospace" font-size="13" font-weight="bold" fill="#ffffff">CONNECT</text>
 </svg>

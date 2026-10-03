@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="30" viewBox="0 0 158 30" role="img" aria-label="Portfolio Visit">
+  <title>Portfolio Visit</title>
+
+  <path d="M0 0h103v30H0z" fill="#555"/>
+  <path d="M103 0h55v30h-55z" fill="#ef4444"/>
+
+  <svg x="10" y="7" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ef4444" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="9"/>
+    <path d="M3 12h18"/>
+    <path d="M12 3a15 15 0 0 1 0 18"/>
+    <path d="M12 3a15 15 0 0 0 0 18"/>
+  </svg>
+
+  <text x="31" y="19.55" font-family="monospace" font-size="13" fill="#ffffff">PORTFOLIO</text>
+  <text x="113" y="19.55" font-family="monospace" font-size="13" font-weight="bold" fill="#ffffff">VISIT</text>
+</svg>

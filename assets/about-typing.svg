@@ -1,0 +1,260 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="820"
+  height="180"
+  viewBox="0 0 820 180"
+  role="img"
+  aria-label="Hi, I'm Brylle! I enjoy working across the stack and figuring out how the different parts of a system come together. What keeps me going is turning ideas into software people can actually use, learning something new along the way, and taking on opportunities to build, collaborate, and grow. Let's connect and build something worth using."
+>
+  <title>About Brylle</title>
+
+  <defs>
+    <clipPath id="clip-line-1">
+      <rect class="reveal reveal-1" x="98.465" y="8" height="26" />
+    </clipPath>
+
+    <clipPath id="clip-line-2">
+      <rect class="reveal reveal-2" x="98.465" y="40" height="26" />
+    </clipPath>
+
+    <clipPath id="clip-line-3">
+      <rect class="reveal reveal-3" x="89.435" y="72" height="26" />
+    </clipPath>
+
+    <clipPath id="clip-line-4">
+      <rect class="reveal reveal-4" x="98.465" y="104" height="26" />
+    </clipPath>
+
+    <clipPath id="clip-line-5">
+      <rect class="reveal reveal-5" x="157.16" y="136" height="26" />
+    </clipPath>
+  </defs>
+
+  <style>
+    .about-text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+        "Liberation Mono", "Courier New", monospace;
+      font-size: 15px;
+      fill: #8b949e;
+    }
+
+    .intro {
+      fill: #f0f6fc;
+      font-weight: 700;
+    }
+
+    .reveal {
+      width: 0;
+    }
+
+    .reveal-1 {
+      animation: reveal-1 2.76s steps(69, end) 0s forwards;
+    }
+
+    .reveal-2 {
+      animation: reveal-2 2.76s steps(69, end) 2.76s forwards;
+    }
+
+    .reveal-3 {
+      animation: reveal-3 2.84s steps(71, end) 5.52s forwards;
+    }
+
+    .reveal-4 {
+      animation: reveal-4 2.76s steps(69, end) 8.36s forwards;
+    }
+
+    .reveal-5 {
+      animation: reveal-5 2.24s steps(56, end) 11.12s forwards;
+    }
+
+    .caret {
+      fill: #ef4444;
+      animation:
+        caret-position 13.36s linear forwards,
+        caret-blink 0.8s steps(1, end) 13.36s infinite;
+    }
+
+    @keyframes reveal-1 {
+      from {
+        width: 0;
+      }
+      to {
+        width: 623.07px;
+      }
+    }
+
+    @keyframes reveal-2 {
+      from {
+        width: 0;
+      }
+      to {
+        width: 623.07px;
+      }
+    }
+
+    @keyframes reveal-3 {
+      from {
+        width: 0;
+      }
+      to {
+        width: 641.13px;
+      }
+    }
+
+    @keyframes reveal-4 {
+      from {
+        width: 0;
+      }
+      to {
+        width: 623.07px;
+      }
+    }
+
+    @keyframes reveal-5 {
+      from {
+        width: 0;
+      }
+      to {
+        width: 505.68px;
+      }
+    }
+
+    @keyframes caret-position {
+      0% {
+        transform: translate(98.465px, 10px);
+        animation-timing-function: steps(69, end);
+      }
+
+      20.6586% {
+        transform: translate(721.535px, 10px);
+      }
+
+      20.6587% {
+        transform: translate(98.465px, 42px);
+        animation-timing-function: steps(69, end);
+      }
+
+      41.3173% {
+        transform: translate(721.535px, 42px);
+      }
+
+      41.3174% {
+        transform: translate(89.435px, 74px);
+        animation-timing-function: steps(71, end);
+      }
+
+      62.5747% {
+        transform: translate(730.565px, 74px);
+      }
+
+      62.5748% {
+        transform: translate(98.465px, 106px);
+        animation-timing-function: steps(69, end);
+      }
+
+      83.2334% {
+        transform: translate(721.535px, 106px);
+      }
+
+      83.2335% {
+        transform: translate(157.16px, 138px);
+        animation-timing-function: steps(56, end);
+      }
+
+      100% {
+        transform: translate(662.84px, 138px);
+      }
+    }
+
+    @keyframes caret-blink {
+      0%,
+      49.99% {
+        opacity: 1;
+      }
+
+      50%,
+      100% {
+        opacity: 0;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .reveal {
+        animation: none;
+      }
+
+      .reveal-1,
+      .reveal-2,
+      .reveal-4 {
+        width: 623.07px;
+      }
+
+      .reveal-3 {
+        width: 641.13px;
+      }
+
+      .reveal-5 {
+        width: 505.68px;
+      }
+
+      .caret {
+        animation: caret-blink 0.8s steps(1, end) infinite;
+        transform: translate(662.84px, 138px);
+      }
+    }
+  </style>
+
+  <text
+    class="about-text"
+    x="98.465"
+    y="27"
+    textLength="623.07"
+    lengthAdjust="spacingAndGlyphs"
+    clip-path="url(#clip-line-1)"
+  ><tspan class="intro">Hi, I'm Brylle!</tspan><tspan> I enjoy working across the stack and figuring out how</tspan></text>
+
+  <text
+    class="about-text"
+    x="98.465"
+    y="59"
+    textLength="623.07"
+    lengthAdjust="spacingAndGlyphs"
+    clip-path="url(#clip-line-2)"
+  >the different parts of a system come together. What keeps me going is</text>
+
+  <text
+    class="about-text"
+    x="89.435"
+    y="91"
+    textLength="641.13"
+    lengthAdjust="spacingAndGlyphs"
+    clip-path="url(#clip-line-3)"
+  >turning ideas into software people can actually use, learning something</text>
+
+  <text
+    class="about-text"
+    x="98.465"
+    y="123"
+    textLength="623.07"
+    lengthAdjust="spacingAndGlyphs"
+    clip-path="url(#clip-line-4)"
+  >new along the way, and taking on opportunities to build, collaborate,</text>
+
+  <text
+    class="about-text"
+    x="157.16"
+    y="155"
+    textLength="505.68"
+    lengthAdjust="spacingAndGlyphs"
+    clip-path="url(#clip-line-5)"
+  >and grow. Let's connect and build something worth using! 😄</text>
+
+  <rect
+    class="caret"
+    x="0"
+    y="0"
+    width="8"
+    height="20"
+    rx="1"
+  />
+</svg>

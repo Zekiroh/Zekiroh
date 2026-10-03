@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="30" viewBox="0 0 150 30" role="img" aria-label="Email Contact">
+  <title>Email Contact</title>
+
+  <path d="M0 0h78v30H0z" fill="#555"/>
+  <path d="M78 0h72v30H78z" fill="#ef4444"/>
+
+  <svg x="10" y="7" width="16" height="16" viewBox="0 0 24 24">
+    <path d="M2 6.5 12 14l10-7.5V18a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6.5Z" fill="#ffffff"/>
+    <path d="M2 6.5 12 14 22 6.5" fill="none" stroke="#EA4335" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M2 7v11" stroke="#4285F4" stroke-width="3"/>
+    <path d="M22 7v11" stroke="#34A853" stroke-width="3"/>
+    <path d="m2 18 7-5.25" stroke="#C5221F" stroke-width="3"/>
+    <path d="m22 18-7-5.25" stroke="#FBBC04" stroke-width="3"/>
+  </svg>
+
+  <text x="31" y="19.55" font-family="monospace" font-size="13" fill="#ffffff">EMAIL</text>
+  <text x="88" y="19.55" font-family="monospace" font-size="13" font-weight="bold" fill="#ffffff">CONTACT</text>
+</svg>

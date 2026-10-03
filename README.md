@@ -5,10 +5,7 @@
 <br />
 <br />
 
-<a href="https://zekiroh.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-ef4444?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
-</a>
-<img src="https://github-view-counter.vercel.app/api?username=Zekiroh-profile&base=1478&label=PROFILE%20VIEWS&color=%23ffffff&icon=true&iconColor=%23ffffff&labelColor=%23ffffff&bgColor=%23ef4444&labelBgColor=%23555&style=square&layout=split" alt="Profile views" />
+<a href="https://zekiroh.vercel.app/"><img src="./assets/portfolio-badge.svg" height="30" alt="Visit portfolio" /></a>&nbsp;<img src="https://github-view-counter.vercel.app/api?username=Zekiroh-profile&base=1478&label=VIEWS%20&color=%23ffffff&icon=true&iconColor=%23ef4444&labelColor=%23ffffff&bgColor=%23ef4444&labelBgColor=%23555&style=square&layout=split" height="30" alt="Profile views" />
 
 </div>
 
@@ -16,7 +13,16 @@
 
 ## About Me
 
-Hi, I'm Brylle! I enjoy working across the stack and figuring out how the different parts of a system come together. What keeps me going is turning ideas into software people can actually use, learning something new along the way, and taking on opportunities to build, collaborate, and grow.
+<div align="center">
+
+<img src="./assets/about-terminal.gif" width="520" alt="GIF" />
+
+<br />
+<br />
+
+<img src="./assets/about-typing.svg" width="100%" alt="Hi, I'm Brylle! I enjoy working across the stack and figuring out how the different parts of a system come together. What keeps me going is turning ideas into software people can actually use, learning something new along the way, and taking on opportunities to build, collaborate, and grow. Let's connect and build something worth using! 😄" />
+
+</div>
 
 ---
 
@@ -132,11 +138,6 @@ Hi, I'm Brylle! I enjoy working across the stack and figuring out how the differ
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jheraldbryllevillafuerte">
-  <img src="./assets/linkedin-badge.svg" alt="Connect on LinkedIn" />
-</a>
-<a href="mailto:jheraldvillafuerte28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
-</a>
+<a href="https://www.linkedin.com/in/jheraldbryllevillafuerte"><img src="./assets/linkedin-badge.svg" height="30" alt="Connect on LinkedIn" /></a>&nbsp;<a href="mailto:jheraldvillafuerte28@gmail.com"><img src="./assets/email-badge.svg" height="30" alt="Send email" /></a>
 
 </div>
