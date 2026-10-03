@@ -138,6 +138,6 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jheraldbryllevillafuerte"><img src="./assets/linkedin-badge.svg" height="30" alt="Connect on LinkedIn" /></a>&nbsp;<a href="mailto:jheraldvillafuerte28@gmail.com"><img src="./assets/email-badge.svg" height="30" alt="Send email" /></a>
+<a href="https://www.linkedin.com/in/jheraldbryllevillafuerte"><img src="./assets/linkedin-badge.svg" height="26" alt="Connect on LinkedIn" /></a>&nbsp;<a href="mailto:jheraldvillafuerte28@gmail.com"><img src="./assets/email-badge.svg" height="26" alt="Send email" /></a>
 
 </div>

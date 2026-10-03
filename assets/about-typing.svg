@@ -39,7 +39,7 @@
     }
 
     .intro {
-      fill: #f0f6fc;
+      fill: #ef4444;
       font-weight: 700;
     }
 
