@@ -140,4 +140,14 @@
 
 <a href="https://www.linkedin.com/in/jheraldbryllevillafuerte"><img src="./assets/linkedin-badge.svg" height="26" alt="Connect on LinkedIn" /></a>&nbsp;<a href="mailto:jheraldvillafuerte28@gmail.com"><img src="./assets/email-badge.svg" height="26" alt="Send email" /></a>
 
+
+<br />
+<br />
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
+<img src="./assets/snake.svg" width="100%" alt="Animated Zekiroh contribution-style centipede" />
+</picture>
+
 </div>
