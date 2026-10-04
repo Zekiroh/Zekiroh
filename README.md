@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="./assets/about-terminal.gif" width="520" alt="GIF" />
+<img src="./assets/about-terminal.gif" width="520" alt="About GIF" />
 
 <br />
 <br />
@@ -116,19 +116,19 @@
 
 <div align="center">
 
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zekiroh&name=Brylle%20Villafuerte&theme=github_dark&title_color=EF4444&text_color=FFFFFF&bg_color=0D1117&border_color=30363D&icon_color=EF4444&chart_color=EF4444" alt="Brylle Villafuerte GitHub activity overview" />
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zekiroh&name=Brylle%20Villafuerte&theme=github_dark&title_color=EF4444&text_color=FFFFFF&bg_color=0D1117&border_color=30363D&icon_color=EF4444&chart_color=EF4444" alt="GitHub activity overview" />
 
 <br />
 <br />
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Zekiroh&show_icons=true&hide_rank=true&card_width=420&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF&icon_color=EF4444&custom_title=Stats" alt="Zekiroh GitHub statistics" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Zekiroh&show_icons=true&hide_rank=true&card_width=420&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF&icon_color=EF4444&custom_title=Stats" alt="GitHub statistics" />
 &nbsp;
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zekiroh&layout=compact&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF&langs_count=8&card_width=420" alt="Zekiroh most used languages" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zekiroh&layout=compact&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF&langs_count=8&card_width=420" alt="Most used languages" />
 
 <br />
 <br />
 
-<img width="92%" src="https://streak-stats.demolab.com?user=Zekiroh&background=0D1117&border=30363D&stroke=30363D&ring=EF4444&fire=EF4444&currStreakNum=EF4444&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&timezone=Asia%2FManila" alt="Zekiroh GitHub contribution streak" />
+<img width="92%" src="https://streak-stats.demolab.com?user=Zekiroh&background=0D1117&border=30363D&stroke=30363D&ring=EF4444&fire=EF4444&currStreakNum=EF4444&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&timezone=Asia%2FManila" alt="GitHub contribution streak" />
 
 </div>
 
@@ -147,7 +147,7 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
-<img src="./assets/snake.svg" width="100%" alt="Animated Zekiroh contribution-style centipede" />
+<img src="./assets/snake.svg" width="100%" alt="Contribution snake" />
 </picture>
 
 </div>

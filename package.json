@@ -1,0 +1,12 @@
+{
+  "name": "zekiroh-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "animation:build": "node scripts/animation/build.mjs",
+    "animation:check": "node scripts/animation/check.mjs"
+  },
+  "devDependencies": {
+    "generate-snake-animation": "3.5.0"
+  }
+}
