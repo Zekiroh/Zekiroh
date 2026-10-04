@@ -140,13 +140,4 @@
 
 <a href="https://www.linkedin.com/in/jheraldbryllevillafuerte"><img src="./assets/linkedin-badge.svg" height="26" alt="Connect on LinkedIn" /></a>&nbsp;<a href="mailto:jheraldvillafuerte28@gmail.com"><img src="./assets/email-badge.svg" height="26" alt="Send email" /></a>
 
-<br />
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zekiroh/Zekiroh/output/contribution-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zekiroh/Zekiroh/output/contribution-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Zekiroh/Zekiroh/output/contribution-snake.svg" width="100%" alt="GitHub contribution snake" />
-</picture>
-
 </div>
