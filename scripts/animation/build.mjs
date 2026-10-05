@@ -3,6 +3,7 @@ import { generateSnakeAnimation } from "generate-snake-animation";
 import { startCalendarServer } from "./calendar.mjs";
 import { PORT, STEP_MS, THEMES } from "./config.mjs";
 import { addBike, addCentipede, bakeLoopHold } from "./decorate.mjs";
+import { formatSvg } from "./format.mjs";
 
 async function loadBike() {
   const source = await readFile(new URL("./bike.svg", import.meta.url), "utf8");
@@ -51,6 +52,7 @@ try {
     svg = addCentipede(svg, THEMES[i]);
     svg = addBike(svg, bike);
     svg = bakeLoopHold(svg);
+    svg = formatSvg(svg);
 
     await writeFile(THEMES[i].output, svg, "utf8");
     console.log(`✓ ${THEMES[i].output}`);
